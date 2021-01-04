@@ -1,0 +1,99 @@
+body {
+   background-color:#ddcdbf;
+}
+
+h1 { 
+color: black;
+text-align: center;
+font-size: 40px;
+text-decoration: underline
+} 
+
+h2 {
+	color: black;
+	text-align: center;
+}
+
+h5 { 
+color: black;
+text-align: center;
+font-size: 40px;
+}
+
+p {
+	text-align: center;
+	font-size: 25px;
+	color:black;
+}
+
+img {
+	position : relative;
+	left: 39%;
+	text-align: center;
+}
+
+li { 
+text-align: left;
+	font-size: 25px;
+	color:black;
+}
+
+h3 {
+	text-align: left;
+	font-size: 25px;
+	color:black;
+}
+		
+/* unvisited link */
+a:link {
+  color: #744924;
+	font-size: 25px;
+}
+
+/* visited link */
+a:visited {
+  color: #C5A78A;
+	font-size: 25px;
+}
+
+/* mouse over link */
+a:hover {
+  color: #301A0B;
+}
+
+/* selected link */
+a:active {
+  color: #947761;
+}
+
+.topnav {
+  background-color: #c28d4b;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 104px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #dfbe95;
+  color: #3c311f;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #744924;
+  color: white;
+}
+
+.cimg {
+  display: block;
+  margin-left: 44%;
+}
